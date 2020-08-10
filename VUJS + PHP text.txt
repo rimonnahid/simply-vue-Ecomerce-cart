@@ -1,0 +1,35 @@
+stock 3 prokar
+1. unlimited / available
+2. limited . exm: 5px / 10 pcs
+3. unavailable : out of stock / zero / 0 pcs.
+ 
+
+VUJS END....
+
+
+___________________
+
+PHP Start
+
+hypertext preprocessor
+Server site Scripting language..
+eta puro page ekbare pore page load kore.. js er moto line by line pore load kore na. tai eta js er theke fast.
+script mane lekha. mane server moddhe giye amra ja kisu likhi. muloto proggarming er jonno logical ja kisu likhi ta e script.
+server site: mane holo je site sever chara run korbe na.
+php individually chole. er jonno kono helping hand lage na. 
+
+...
+
+php syntex= echo / output command
+variable = ekta vari store kora
+data type = 3 ta == sting/ intiger/booleean
+operators (
+ arithmatic ope = + - * /
+string operator = . .= = concatnation
+logical operator = and or nor xor && ||=or
+)
+function: what is function?
+ans: block element, block quote, segment ei 3 tar moddhe j code execute hoi setai function.
+block element, block quote, segment ei 3 ta curly bracket {} er vitore thake.
+
+cookies= client end a user er small data store kore

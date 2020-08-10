@@ -1,0 +1,28 @@
+	php syntax
+	variable
+	data type
+	operators(
+		Artihmatic Operator  = +,-,*,/
+		Assignment Operators = =, +=, -=, *=
+		Comparison Operators = ==, ===identical, != Not Equal, !== not identical,
+					< > <= >=....
+		Logical Operators    = and or nor xor && || 
+		increment & decrement = -- ++
+		String Operator	      = . .=
+		
+		
+	)
+	Conditional Statement = Logical Comparative Test Condition
+	Switch = Its Use Element Series Of Value
+	Loop(
+		(While , Do While), For=(repeat Block of Codes Certain condition), 
+				    Foreach(Iterate Over Arrays)
+	)
+	Function
+	Array (
+		Associative Arrays == Assign key Value to Elements, 
+		Multidimensional Arrays== Elements Also Be An Array
+	)
+	global Variable(
+		$_SERVER,$_GET,$_POST,$_COOKIES,$_SESSION
+	)
